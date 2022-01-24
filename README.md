@@ -1,6 +1,6 @@
 
-## Curso completo
-[AQUÍ](https://www.youtube.com/watch?v=BeY49qogJfc&list=PLTg7E2ObeSjYkcQ7QzqON-aQ2BnvwWFm0&index=6)
+## YOUTUBE WEBINAR
+[HERE](https://www.youtube.com/watch?v=BeY49qogJfc&list=PLTg7E2ObeSjYkcQ7QzqON-aQ2BnvwWFm0&index=6)
 
 # Getting Started with Create React App
 
